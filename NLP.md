@@ -1,4 +1,6 @@
-### Natural Language Processing (NLP)
+# ~ 🤖 Natural Language Processing (NLP) ~
+
+---
 
 Natural Language Processing (NLP) is a branch of artificial intelligence that enables machines to understand, interpret, and generate human language. This technology is behind many applications we use daily, such as chatbots, virtual assistants, machine translation, and sentiment analysis.
 
