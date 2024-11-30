@@ -1,4 +1,4 @@
-# ~ 📒 Notes on SQL & DBMS ~
+# ~ 📒 SQL & DBMS ~
 
 ---
 
