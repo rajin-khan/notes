@@ -33,7 +33,7 @@ This repository serves as:
 ```bash
 git clone https://github.com/<your-username>/Notes.git
 ```
-**II)** Navigate through the folders to find the topic you're interested in.  
+**II)** Navigate and find the topic you're interested in.  
 **III)** Open the markdown files for detailed, beautifully formatted notes.  
 **IV)** Remember to occasionally do a `git pull` to stay updated with new notes.
 
