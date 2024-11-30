@@ -6,11 +6,11 @@ Welcome! This **Notes** repository is a comprehensive collection of notes coveri
 
 | **Topic**                      | **Description**                                                                                   |
 |--------------------------------|---------------------------------------------------------------------------------------------------|
-| **SQL & DBMS**                 | Covers SQL basics, table creation, querying, joins, subqueries, and aggregate functions. |
-| **Git & GitHub**               | Explains version control basics, repository management, branching, merging, and useful Git commands. |
-| **Command Line Basics (CLI)**  | Overview of CLI commands for macOS, including directory management, file manipulation, and process handling. |
-| **Linux & Terminal Commands**  | Includes essential Linux terminal commands for file management, networking, and system monitoring. |
-| **Natural Language Processing (NLP)** | Discusses key NLP concepts like tokenization, stemming, lemmatization, and real-world applications. |
+| **SQL**                 | Covers SQL basics, table creation, querying, joins, subqueries, and aggregate functions. |
+| **Git**               | Explains version control basics, repository management, branching, merging, and useful Git commands. |
+| **CLI**  | Overview of what the CLI is, CLI commands for macOS, including directory management, file manipulation, and process handling. |
+| **CLISpecial**  | Includes additional useful and unique commands I've come across from different sources. |
+| **NLP** | Discusses key NLP concepts like tokenization, stemming, lemmatization, and real-world applications. |
 
 ---
 
