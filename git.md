@@ -1,5 +1,5 @@
 
-#  ~ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="32"/></a> Notes on Git and GitHub ~
+#  ~ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="32"/></a> Git and GitHub ~
 
 ---
 ### **Basic Git and GitHub Terminologies**
