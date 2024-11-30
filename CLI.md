@@ -1,4 +1,4 @@
-#  ~ <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/png/white_vertical_icon.png" alt="zsh" height="30"/></a> **CLI Basics (macOS) ~**
+#  ~ <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/png/white_vertical_icon.png" alt="zsh" height="30"/></a> CLI Basics (macOS) ~
 
 ### **Basic Command Line Interface (CLI) Terminologies**
 
