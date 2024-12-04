@@ -363,6 +363,7 @@ The **String** class provides several methods for manipulating strings.
 | `charAt(index)`         | Returns the character at the specified index.    | `"Java".charAt(1)` → `'a'`             |
 | `substring(start, end)` | Extracts a substring.                            | `"Hello".substring(0, 2)` → `"He"`     |
 | `equals()`              | Compares two strings for equality.               | `"Java".equals("java")` → `false`      |
+| `equalsIgnoreCase()`              | Compares two strings for equality, ignoring the case.               | `"Java".equalsIgnoreCase("java")` → `true`      |
 | `toLowerCase()`         | Converts all characters to lowercase.            | `"JAVA".toLowerCase()` → `"java"`      |
 | `toUpperCase()`         | Converts all characters to uppercase.            | `"java".toUpperCase()` → `"JAVA"`      |
 | `split(delimiter)`      | Splits the string into an array of substrings.   | `"a,b,c".split(",")` → `["a", "b", "c"]` |
@@ -420,6 +421,6 @@ System.out.println(map.get(1)); // Outputs: One
 
 ---
 
-## **Resource:s**  
+## **Resources:**  
 - [Official Java Documentation](https://docs.oracle.com/en/java/)  
 - [Java Programming Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/java/)  
