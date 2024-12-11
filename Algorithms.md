@@ -1,4 +1,4 @@
-# Algorithms in C++ 📜  
+# ~ Algorithms in C++ 📜 ~
 
 This note covers essential algorithms categorized by their complexity: Easy, Basic, Moderate, and Advanced. Each algorithm is accompanied by a fully implemented C++ solution. A special section is dedicated to interview questions commonly asked in top tech companies like FAANG.
 
