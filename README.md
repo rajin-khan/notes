@@ -16,6 +16,8 @@ Welcome! This **Notes** repository is a comprehensive collection of notes coveri
 | **CLISpecial**     | Includes additional useful and unique commands I've come across from different sources.            |
 | **CPPDSA**         | Goes over the basics of the C++ programming language, along with some basic data structures and algorithms implemented in C++.    |
 | **DBMS**           | Covers the basics of database management system concepts and theory, and Languages for database management. |
+| **Dart**           | Goes over programming basics with Dart and Dart fundamentals. |
+| **Flutter**        | Epxplains fully how to get started with Flutter Development. |
 | **JavaOOP**        | Explains the syntax of Java, and covers Object Oriented Programming Concepts as well. |
 | **NLP**            | Discusses key NLP concepts like tokenization, stemming, lemmatization, and real-world applications. |
 | **SQL**            | Covers SQL basics, table creation, querying, joins, subqueries, and aggregate functions.          |
