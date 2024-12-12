@@ -48,7 +48,7 @@ git clone https://github.com/<your-username>/Notes.git
 
 ## 🤝 Contributions
 
-Contributions are always welcome! Here's how you can help improve this repository:  
+Contributions are always welcome! How you can help out:  
 **I)** *Fork* the repository.  
 **II)** Add your *new notes* or *update* existing ones.  
 **III)** Submit a *pull request* for review.
