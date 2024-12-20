@@ -63,4 +63,9 @@ You are free to *use, modify, and share* any and all content on this repository.
 
 # Happy learning! 🎉
 
+#### Oh, and a dev quote for you:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=truel&type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 </div>
