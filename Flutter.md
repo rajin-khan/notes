@@ -787,6 +787,11 @@ Flutter apps can be deployed to Android, iOS, web, and desktop platforms.
    - Test the app on Firebase App Distribution.  
    - Submit it to the Google Play Console.
 
+4. **You can also build an app bundle:**
+    ```bash
+    flutter build appbundle --release
+   ```
+
 ---
 
 #### **12.2 Deploying to iOS**
